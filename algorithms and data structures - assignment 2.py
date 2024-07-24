@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Assignment 2 
 # Ayesha Haider 100869659
 def MergeSort(arr, data=0):
